@@ -5,5 +5,8 @@ public class Main {
 
         System.out.println("Primeros comandos de git");
 
+        System.out.println("Juliana Castellanos Vanegas");
+        System.out.println("El semestre pasado vi el lenguaje: Python");
+
     }
 }
